@@ -35,3 +35,10 @@ fault
 16426
 fault
 ```
+## Запуск (в Linux)
+
+```
+$ gcc paging.c 
+$ ./a.out
+```
+Результат будет на экране и в result.txt.
